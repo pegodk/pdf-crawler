@@ -1,0 +1,12 @@
+filename,local_name,url,linking_page_url,size,depth
+a.pdf,crawling_test\simfin.com\33f086d1-83fa-48d8-8c53-974df59e400c.pdf,https://s3-eu-west-1.amazonaws.com/crawlingtest-simfin/a.pdf,https://simfin.com/crawlingtest,614824,1
+b.pdf,crawling_test\simfin.com\895170f4-f3a3-4a41-b623-f000e4148d45.pdf,https://s3-eu-west-1.amazonaws.com/crawlingtest-simfin/b,https://simfin.com/crawlingtest,153572,1
+a.pdf,crawling_test\simfin.com\f85af3d2-1846-404d-99a6-ea3d29a37c89.pdf,https://simfin.com/crawlingtest/a.pdf,https://simfin.com/crawlingtest,614824,1
+abc.pdf,crawling_test\simfin.com\10061c94-fda9-4030-bf11-a8502f08598e.pdf,https://simfin.com/crawlingtest/abc.pdf,https://simfin.com/crawlingtest,614824,1
+c.pdf,crawling_test\simfin.com\afbeb501-af54-4d75-ac08-676f4bbc37bc.pdf,https://simfin.com/crawlingtest/c.pdf,https://simfin.com/crawlingtest,722455,1
+onsub.pdf,crawling_test\simfin.com\0be732ba-ec9e-48ba-9782-1d506fb98e2f.pdf,https://simfin.com/crawlingtest/sub/onsub.pdf,https://simfin.com/crawlingtest/sub,614824,0
+d.pdf,crawling_test\simfin.com\d671cd72-7f17-46a5-94d5-27cfcd9b7bbf.pdf,https://simfin.com/crawlingtest/d.pdf,https://simfin.com/crawlingtest,247435,1
+8.pdf,crawling_test\simfin.com\97f7902f-9726-4d55-8480-0b8f94cf53fa.pdf,https://simfin.com/crawlingtest/8.pdf,https://simfin.com/crawlingtest,614824,1
+9.pdf,crawling_test\simfin.com\ee552155-e3bf-4467-9c1e-e67b35724704.pdf,https://simfin.com/crawlingtest/9.pdf,https://simfin.com/crawlingtest,614824,1
+10.pdf,crawling_test\simfin.com\7ffc6cbd-8f88-448f-86f0-6d39d0910be5.pdf,https://simfin.com/crawlingtest/10.pdf,https://simfin.com/crawlingtest,614824,1
+11.pdf,crawling_test\simfin.com\e4bbf4e0-4fc4-43fb-bf8b-2adcedbf907f.pdf,https://simfin.com/crawlingtest/11.pdf,https://simfin.com/crawlingtest,614824,1
